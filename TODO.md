@@ -1,0 +1,4 @@
+- [x] Adicionar intervalo de tempo entre ondas de inimigos usando Config.EnemyWaveDelay (30 segundos)
+- [x] Modificar o loop de spawn de ondas para incluir delay após uma onda morrer
+- [ ] Testar o delay entre ondas
+- [x] Corrigir blips de inimigos mortos permanecendo no mapa

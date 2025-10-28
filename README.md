@@ -17,6 +17,7 @@
 - Restart your server.
 
 ## Credits
-Base script creator (bcc-robbery): [BryceCanyonCounty](https://github.com/BryceCanyonCounty)
-This script creator: [itskaaas](https://github.com/itskaaas)
+- Base script creator (bcc-robbery): [BryceCanyonCounty](https://github.com/BryceCanyonCounty)
+- This script creator: [itskaaas](https://github.com/itskaaas)
+
 
